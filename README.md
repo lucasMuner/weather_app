@@ -2,7 +2,7 @@
 
 Este projeto consiste em uma aplicação simples desenvolvida em Flutter, que realiza a consulta dos climas utilizando a API OpenWeatherMap. Você digita no input a cidade que você deseja saber o clima e mostrará como ele está naquela localização.
 
-## Capturas de tela
+## Demonstração
 ![gif_funcionalidade](images/video_tela.gif)
 
 ## APIs e Dependências Utilizadas
