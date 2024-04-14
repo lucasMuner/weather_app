@@ -1,6 +1,6 @@
 # Clima - Projeto Flutter
 
-Este projeto consiste em uma aplicação simples desenvolvida em Flutter, que realiza a consulta dos climas utilizando a API OpenWeatherMap. Você digita no input a cidade que você deseja saber o clima e mostrará como ele está naquela localização.
+Este projeto consiste em uma aplicação simples desenvolvida em Flutter, que realiza a consulta dos climas utilizando a OpenWeather API. Você digita no input a cidade que você deseja saber o clima e mostrará como ele está naquela localização.
 
 ## Demonstração
 ![gif_funcionalidade](images/video_tela.gif)
@@ -10,7 +10,7 @@ Este projeto consiste em uma aplicação simples desenvolvida em Flutter, que re
 - **geolocator**: Biblioteca Flutter para acesso à localização do dispositivo.
 - **http**: Biblioteca Flutter para fazer solicitações HTTP.
 - **flutter_spinkit**: Pacote para indicadores de carregamento animados.
-- **OpenWeatherMap**: API de previsão meteorológica que fornece acesso a dados precisos e atualizados sobre o clima em todo o mundo.
+- **OpenWeather**: API de previsão meteorológica que fornece acesso a dados precisos e atualizados sobre o clima em todo o mundo.
 
 ## Classes e Arquivos do Projeto
 - **CityScreen**: Tela de pesquisa da cidade.
